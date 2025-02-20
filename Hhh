@@ -1,0 +1,79 @@
+ГОД(A1)
+
+b) =МЕСЯЦ(A1)
+
+c) =ДЕНЬ(A1)
+
+d) =ЧАС(A1)
+
+
+
+3. Aydı Alıp Shıǵıw: Eger A1 úyashada "2025-02-20" bolsa, =МЕСЯЦ(A1) qanday juwap beredi?
+
+a) 2
+
+b) 20
+
+c) 2025
+
+d) "Февраль"
+
+
+
+4. Kúndi Alıp Shıǵıw: Qaysı funksiya A1 úyashadaǵı künden kúndi alıp shıǵadı?
+
+a) =ДЕНЬ(A1)
+
+b) =СЕГОДНЯ(A1)
+
+c) =СЕЙЧАС(A1)
+
+d) =ДАТА(A1)
+
+
+
+5. Násirgi Uaqıt: Qaysı funksiya násirgi kún hám uaqıttı birge qaytaradı?
+
+a) =СЕЙЧАС()
+
+b) =СЕГОДНЯ()
+
+c) =ВРЕМЯ()
+
+d) =ДАТА()
+
+
+
+6. Sаǵатты Alıp Shıǵıw: Eger A1 úyashada "14:45:30" bolsa, =ЧАС(A1) qanday juwap beredi?
+
+a) 14
+
+b) 45
+
+c) 30
+
+d) 144530
+
+
+
+7. Minuttı Alıp Shıǵıw: Qaysı funksiya A1 úyashadaǵı uaqıttan minuttı alıp shıǵadı?
+
+a) =МИНУТ(A1)
+
+b) =СЕКУНД(A1)
+
+c) =ЧАС(A1)
+
+d) =ВРЕМЯ(A1)
+
+
+
+8. Sekundı Alıp Shıǵıw: Eger A1 úyashada "12:30:45" bolsa, =СЕКУНД(A1) qanday juwap beredi?
+
+a) 12
+
+b) 30
+
+c) 45
+
+d) "12:30:45"
